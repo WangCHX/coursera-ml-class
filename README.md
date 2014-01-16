@@ -1,3 +1,3 @@
 coursera-ml-class
 =================
-These are solutions for Coursera Machine Learning Class.
+These are my solutions for Machine Learning Class on Coursera.
